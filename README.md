@@ -129,4 +129,4 @@ This project was built as part of a data analytics portfolio targeting London-ba
 ## 📬 Contact
 
 **[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/YOUR_USERNAME) · [Email](mailto:your@email.com)
+[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/alinamusteata34-hub) · [Email](alinamusteata34@gmail.com)
