@@ -110,11 +110,6 @@ The dashboard includes:
 - 📈 Price trends from 1995 to 2024
 - 🏠 Price breakdown by property type
 
-### Preview
-
-![Average sale price by outcode](assets/avg-price-by-outcode.png)
-![Price trends 1995–2024](assets/price-trends.png)
-![Price breakdown by property type](assets/price-by-type.png)
 ---
 
 ## 📬 Contact
