@@ -99,7 +99,22 @@ cd london-housing-data-cleaning
 pip install -r requirements.txt
 jupyter notebook notebooks/london_house_price_cleaning.ipynb
 ```
+## 📊 Interactive Dashboard
 
+Explore the live London Housing Market dashboard built in Google Looker Studio:
+
+👉 **[View Live Dashboard](https://datastudio.google.com/s/qRcAXgYsDtk)**
+
+The dashboard includes:
+- 🏘️ Average sale price by London outcode
+- 📈 Price trends from 1995 to 2024
+- 🏠 Price breakdown by property type
+
+### Preview
+
+![Average sale price by outcode](assets/avg-price-by-outcode.png)
+![Price trends 1995–2024](assets/price-trends.png)
+![Price breakdown by property type](assets/price-by-type.png)
 ---
 
 ## 📬 Contact
